@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/buval/CLionProjects/ABCTask5/Fork.cpp
+iostream
+-
+thread
+-
+vector
+-
+mutex
+-
+
+C:/Users/buval/CLionProjects/ABCTask5/main.cpp
+iostream
+-
+thread
+-
+vector
+-
+mutex
+-
+Fork.cpp
+C:/Users/buval/CLionProjects/ABCTask5/Fork.cpp
+

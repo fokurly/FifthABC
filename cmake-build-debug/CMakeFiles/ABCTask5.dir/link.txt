@@ -1,0 +1,3 @@
+"D:\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\ABCTask5.dir/objects.a
+D:\c++\bin\ar.exe cr CMakeFiles\ABCTask5.dir/objects.a @CMakeFiles\ABCTask5.dir\objects1.rsp
+D:\c++\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\ABCTask5.dir/objects.a -Wl,--no-whole-archive -o ABCTask5.exe -Wl,--out-implib,libABCTask5.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ABCTask5.dir\linklibs.rsp

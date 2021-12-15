@@ -1,0 +1,3 @@
+C:/Users/buval/CLionProjects/ABCTask5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/buval/CLionProjects/ABCTask5/cmake-build-debug/CMakeFiles/ABCTask5.dir
+C:/Users/buval/CLionProjects/ABCTask5/cmake-build-debug/CMakeFiles/edit_cache.dir
