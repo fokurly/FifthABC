@@ -30,7 +30,7 @@ void eat(int numberOfPhilosopher, int iter) {
 
         print.lock();
         std::cout << "Philosopher " << numberOfPhilosopher + 1 <<
-                  " started eating for " << milliseconds.count() << " ms" << "\n";
+                  " started eating.\n";
         print.unlock();
 
         std::this_thread::sleep_for(milliseconds);
